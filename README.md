@@ -27,8 +27,6 @@
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-![snake gif](https://github.com/josineudo-arruda/josineudo-arruda/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **josineudo-arruda/josineudo-arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
