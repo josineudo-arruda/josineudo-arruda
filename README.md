@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josineudo-arruda/)
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/josineudo-arruda">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&theme=aura&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josineudo-arruda&layout=compact&langs_count=7&theme=aura" />
 
