@@ -5,9 +5,9 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/josineudo-arruda">
+    <img height="180em" style="margin-left: 20px;" align="center" src="josineudo-arruda.png" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josineudo-arruda&layout=compact&langs_count=7&theme=aura" />
   </a>
-  <img height="180em" style="margin-left: 20px;" align="center" src="josineudo-arruda.png" />
 </div>
  <br>
 
