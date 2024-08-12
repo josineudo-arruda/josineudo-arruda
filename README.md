@@ -10,17 +10,7 @@
   </a>
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: gruvbox)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true" />
-</picture>
+
  <br>
 
 ### Tecnologias Conhecidas
@@ -45,7 +35,8 @@
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
 
-- 🔭 Estou atualemente cursando PROPROFISSÂO no Instituto PROA, curso de desenvolvimento de software em Java e React.
+- 🚀 Estou atualmente cursando PROPROFISSÃO no Instituto PROA, curso de desenvolvimento de software em Java e React.
+- 🔭 No 2° semestre de Engenharia da Computação na FMU.
 - 🌱 Estou aprendendo React e Spring.
 
 <!--
