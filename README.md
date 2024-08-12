@@ -1,4 +1,4 @@
-### Olá eu sou o Josineudo Arruda 👋
+### Olá eu sou o Josineudo Arruda 🧑‍💻
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=josineudo.arruda@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josineudo-arruda/)
@@ -9,6 +9,18 @@
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josineudo-arruda&layout=compact&langs_count=7&theme=aura" />
   </a>
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: gruvbox)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true" />
+</picture>
  <br>
 
 ### Tecnologias Conhecidas
@@ -32,6 +44,9 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
+
+- 🔭 Estou atualemente cursando PROPROFISSÂO no Instituto PROA, curso de desenvolvimento de software em Java e React.
+- 🌱 Estou aprendendo React e Spring.
 
 <!--
 **josineudo-arruda/josineudo-arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
