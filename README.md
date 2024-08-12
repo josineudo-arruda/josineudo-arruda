@@ -5,6 +5,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/josineudo-arruda">
+    <img height="140em"  align="center"  src="josineudo-arruda.png" />
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=josineudo-arruda&show_icons=true&theme=dracula"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josineudo-arruda&layout=compact&langs_count=7&theme=dracula" />
   </a>
@@ -30,26 +31,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div><br/>
-
-<!--
-<div style="display: inline_block"><br>
-  <img align="center" alt="Josineudo-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" alt="Josineudo-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Josineudo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/angular-plain.svg">
-   <img align="center" alt="Josineudo-Springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/springboot-plain.svg">
-  <img align="center" alt="Josineudo-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/django-plain.svg">
-  <img align="center" alt="Josineudo-Php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="Josineudo-Bootstrap" height="30" width="40" src=" 	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  <img align="center" alt="Josineudo-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/jquery-plain.svg">
-  <img align="center" alt="Josineudo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Josineudo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Josineudo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Josineudo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Josineudo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Josineudo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
--->
+</div><br
 
 - 🚀 Estou atualmente cursando PROPROFISSÃO no Instituto PROA, curso de desenvolvimento de software em Java e React.
 - 🔭 No 2° semestre de Engenharia da Computação na FMU.
