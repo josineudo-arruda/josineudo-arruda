@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="josineudo-arruda.png"  />
+<img align="right" height="150" src="imagens/josineudo-arruda.png"  />
 
 ###
 
