@@ -53,9 +53,3 @@
 - 🌱 Estou aprendendo React e Spring.
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/josineudo-arruda/josineudo-arruda/output/snake.svg" alt="Snake animation" />
-
-###
